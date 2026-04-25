@@ -9,7 +9,7 @@ class Dog {
             System.out.println("dog is eating ");
         }
         }
-public class One1_ClassAndObject{
+public class L1_ClassAndObject{
    
     public static void main(String[] args) {
         Dog myDog = new Dog();

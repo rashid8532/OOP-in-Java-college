@@ -14,7 +14,7 @@ class Car extends Vehical{
         System.out.println("Car is runing ");
     }
 }
-public class Three3_Inheritence {
+public class L3_Inheritence {
     public static void main(String[] args) {
     Car new_car = new Car();
         new_car.start();
