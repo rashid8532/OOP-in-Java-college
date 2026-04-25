@@ -1,5 +1,5 @@
 package One_Basic_OOP;
-
+// compile time polymorphism
 class MathOperations{
     void add(int a, int b,int c){
         System.out.println(a + b + c);
@@ -20,6 +20,10 @@ class MathOperations{
 public class L4_Polymorphism {
 
     public static void main(String[] args) {
+
+// compile time polymorphism
+
+        
         MathOperations obj = new MathOperations();
         obj.add(2.8,3.7);
     }
