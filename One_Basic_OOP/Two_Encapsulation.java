@@ -30,10 +30,13 @@ class Student{
 public class Two_Encapsulation {
     public static void main(String[] args) {
         Student new_Student = new Student();
+
         new_Student.setName("Rashid");
         System.out.println( new_Student.getName());
+
         new_Student.setAge(21);
         new_Student.setCourse("BCA");
+        
         System.out.println(new_Student.getCourse());
         System.out.println(new_Student.getAge());
     }
