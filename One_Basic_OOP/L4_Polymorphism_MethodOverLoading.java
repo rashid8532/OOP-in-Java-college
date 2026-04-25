@@ -17,7 +17,7 @@ class MathOperations{
         System.out.println(a + b + c);
     }
 }
-public class L4_Polymorphism {
+public class L4_Polymorphism_MethodOverLoading {
 
     public static void main(String[] args) {
 
