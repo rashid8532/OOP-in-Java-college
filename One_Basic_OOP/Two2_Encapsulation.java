@@ -27,7 +27,7 @@ class Student{
         return age;
     }
 }
-public class Two_Encapsulation {
+public class Two2_Encapsulation {
     public static void main(String[] args) {
         Student new_Student = new Student();
 
