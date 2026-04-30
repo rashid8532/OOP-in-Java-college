@@ -1,4 +1,4 @@
-package One_Basic_OOP;
+package F1_Basic_OOP;
 class Student{
     private String name;
     private int age;

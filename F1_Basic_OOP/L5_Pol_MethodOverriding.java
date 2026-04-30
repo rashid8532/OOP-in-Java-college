@@ -1,4 +1,4 @@
-package One_Basic_OOP;
+package F1_Basic_OOP;
 class Shape{
     void draw(){
         System.out.println("Shape is drawn");

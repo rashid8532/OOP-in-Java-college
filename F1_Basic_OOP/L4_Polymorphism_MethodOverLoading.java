@@ -1,4 +1,4 @@
-package One_Basic_OOP;
+package F1_Basic_OOP;
 // compile time polymorphism
 class MathOperations{
     void add(int a, int b,int c){
