@@ -39,8 +39,8 @@ public class L6_Abstraction {
 
     V1.Start();
     V1.Stop();
-    V1.Stop();
-    V1.Start();
+    V2.Stop();
+    V2.Start();
 
    }
 
