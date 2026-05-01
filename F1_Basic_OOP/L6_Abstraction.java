@@ -38,7 +38,9 @@ public class L6_Abstraction {
     Vehical V2 = new Bike();
 
     V1.Start();
-    V2.Start();
+    V1.Stop();
+    V1.Stop();
+    V1.Start();
 
    }
 
