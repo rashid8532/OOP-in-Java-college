@@ -3,6 +3,7 @@ package F1_Basic_OOP;
 abstract class Vehical {
 
     abstract void Start();
+    abstract void Stop();
 }
 
 class Bike extends Vehical {
@@ -10,12 +11,22 @@ class Bike extends Vehical {
     void Start(){
         System.out.println("Bike starts with the kick ");
     }
+
+    @Override
+    void Stop(){
+        System.out.println("Bike is stoped");
+    }
 }
 
 class Car extends Vehical {
     @Override
     void Start(){
         System.out.println("Car starts with the key ");
+    }
+
+    @Override
+    void Stop(){
+        System.out.println("Car is stoped");
     }
 }
 
