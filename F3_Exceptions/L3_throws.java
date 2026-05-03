@@ -13,5 +13,7 @@ public class L3_throws {
         } catch (ArithmeticException e) {
             System.out.println("Handled in main");
         }
+        Exception n = new Exception();
+        System.out.println(n);
     }
 }
