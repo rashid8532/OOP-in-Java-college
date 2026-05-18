@@ -31,3 +31,4 @@ public class L5_Pol_MethodOverriding {
         obj3.draw();
     }
 }
+// pol_method Over riding 
