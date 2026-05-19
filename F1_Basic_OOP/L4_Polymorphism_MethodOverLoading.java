@@ -23,9 +23,8 @@ public class L4_Polymorphism_MethodOverLoading {
 
 // compile time polymorphism
 
-        
         MathOperations obj = new MathOperations();
         obj.add(2.8,3.7);
     }
 }
-// pol mwthod overloading 
+// pol method overloading 

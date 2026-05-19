@@ -30,5 +30,6 @@ public class L5_Pol_MethodOverriding {
         Shape obj3 = new Shape();
         obj3.draw();
     }
+    
 }
 // pol_method Over riding 
